@@ -7,7 +7,20 @@
       "TPEN3 Transcription/Translation Example"
     ]
   },
-  "metadata": [],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "UpdatedTime"
+        ]
+      },
+      "value": {
+        "none": [
+          "15%3A12"
+        ]
+      }
+    }
+  ],
   "items": [
     {
       "id": "https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json",
