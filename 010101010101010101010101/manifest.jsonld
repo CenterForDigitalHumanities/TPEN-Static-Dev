@@ -85,7 +85,8 @@
                ],
                "creator":"https://devstore.rerum.io/v1/id/661d43bc490d045b8ba04d38",
                "target":"https://devstore.rerum.io/v1/id/67cb22fb0433403af5193673",
-               "partOf":"https://devstore.rerum.io/v1/id/67cb28c0e5e80f3c976b6cf7"
+               "partOf":[{"id":"https://devstore.rerum.io/v1/id/67cb28c0e5e80f3c976b6cf7", "type":"AnnotationCollection"}],
+               "next": "https://devstore.rerum.io/v1/id/67cb22207a8bc7ebdd434f23"
             },
             {
                "id":"https://devstore.rerum.io/v1/id/67cb224e6d35d4138c2fd589",
@@ -125,7 +126,8 @@
                ],
                "creator":"https://devstore.rerum.io/v1/id/661d43bc490d045b8ba04d38",
                "target":"https://devstore.rerum.io/v1/id/67cb22fb0433403af5193673",
-               "partOf":"https://devstore.rerum.io/v1/id/67cb29210433403af5193674"
+               "partOf":[{"id":"https://devstore.rerum.io/v1/id/67cb29210433403af5193674", "type":"AnnotationCollection"}],
+               "next": "https://devstore.rerum.io/v1/id/67cb2269e5e80f3c976b6cf6"
             }
          ]
       },
@@ -206,7 +208,8 @@
                ],
                "creator":"https://devstore.rerum.io/v1/id/661d43bc490d045b8ba04d38",
                "target":"https://devstore.rerum.io/v1/id/67cb23167a8bc7ebdd434f24",
-               "partOf":"https://devstore.rerum.io/v1/id/67cb28c0e5e80f3c976b6cf7s"
+               "partOf":[{"id":"https://devstore.rerum.io/v1/id/67cb28c0e5e80f3c976b6cf7", "type":"AnnotationCollection"}],
+               "prev": "https://devstore.rerum.io/v1/id/67cb22020433403af5193672"
             },
             {
                "id":"https://devstore.rerum.io/v1/id/67cb2269e5e80f3c976b6cf6",
@@ -246,7 +249,8 @@
                ],
                "creator":"https://devstore.rerum.io/v1/id/661d43bc490d045b8ba04d38",
                "target":"https://devstore.rerum.io/v1/id/67cb23167a8bc7ebdd434f24",
-               "partOf":"https://devstore.rerum.io/v1/id/67cb29210433403af5193674"
+               "partOf":[{"id":"https://devstore.rerum.io/v1/id/67cb29210433403af5193674", "type":"AnnotationCollection"}],
+               "prev": "https://devstore.rerum.io/v1/id/67cb224e6d35d4138c2fd589"
             }
          ]
       }
