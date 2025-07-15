@@ -1,0 +1,44 @@
+{
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://dev.static.t-pen.org/000000000000000000000000/manifest.json",
+   "type":"Manifest",
+   "label":{
+      "en":[
+         "Bzommar Pretty Pictures"
+      ]
+   },
+   "items":[
+      {
+         "id":"https://tpen-project-examples.habesoftware.app/Bzommar_pretty_pictures/canvas-2.json",
+         "type":"Canvas",
+         "label":{
+            "en":[
+               "Page 3 Recto, Page 2 Verso"
+            ]
+         },
+         "width":3006,
+         "height":2000,
+         "items":[
+            {
+               "id":"https://tpen-project-examples.habesoftware.app/Bzommar_pretty_pictures/contentPage.json",
+               "type":"AnnotationPage",
+               "items":[
+                  {
+                     "id":"https://tpen-project-examples.habesoftware.app/Bzommar_pretty_pictures/content.json",
+                     "type":"Annotation",
+                     "motivation":"painting",
+                     "body":{
+                        "id":"https://tpen3.s3.us-east-1.amazonaws.com/Bzommar_pretty_pictures/bzan00449_003r_002v.jpg",
+                        "type":"Image",
+                        "format":"image/jpeg",
+                        "width":3006,
+                        "height":2000
+                     },
+                     "target":"https://tpen-project-examples.habesoftware.app/Bzommar_pretty_pictures/canvas-2.json"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
