@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://dev.static.t-pen.org/690e70890f63899e9b1e6952/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "C"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://dev.static.t-pen.org/690e70890f63899e9b1e6952/canvas-1.json",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "C Page 1"
+        ]
+      },
+      "width": 1256,
+      "height": 2000,
+      "items": [
+        {
+          "id": "https://dev.static.t-pen.org/690e70890f63899e9b1e6952/contentPage.json",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dev.static.t-pen.org/690e70890f63899e9b1e6952/content.json",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://t-pen.org/TPEN/pageImage?folio=13252835",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1256,
+                "height": 2000
+              },
+              "target": "https://dev.static.t-pen.org/690e70890f63899e9b1e6952/canvas-1.json"
+            }
+          ]
+        }
+      ],
+      "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+    }
+  ],
+  "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+}
