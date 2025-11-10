@@ -7,6 +7,7 @@
       "Auto Parse"
     ]
   },
+  "metadata": [],
   "items": [
     {
       "id": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
@@ -39,7 +40,412 @@
           ]
         }
       ],
-      "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+      "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f",
+      "annotations": [
+        {
+          "id": "https://devstore.rerum.io/v1/id/690d4448e5ff898f955c09e3",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Auto Parse Page 1"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d38376",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:9,131,1489,78"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d38377",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:9,214,1489,89"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d38378",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:9,303,1489,88"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d38379",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:9,391,1489,98"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d3837a",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:11,492,1490,68"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d3837b",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:11,770,1491,70"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d3837c",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:12,562,1489,66"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d3837d",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:12,626,1488,75"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d3837e",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:12,704,1488,66"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d3837f",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:12,839,1491,73"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d38380",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:13,913,1489,68"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d38381",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:14,980,1491,71"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d38382",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:14,1052,1489,68"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d38383",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:15,1125,1489,65"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d38384",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:16,1191,1489,72"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d38385",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:16,1263,1490,70"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d38386",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:16,1335,1491,65"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d38387",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:17,1398,1490,72"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d38388",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:18,1471,1490,71"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d38389",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:18,1542,1490,72"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d3838a",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:19,1618,1490,65"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d3838b",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:20,1685,1491,65"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d3838c",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:21,1746,1490,79"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/690d45642deab46a63d3838d",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:21,1825,1492,70"
+                }
+              },
+              "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
+            }
+          ],
+          "partOf": [
+            {
+              "id": "http://localhost:3012/project/690d4446e5ff898f955c09e1/layer/690d4448e5ff898f955c09e2",
+              "type": "AnnotationCollection"
+            }
+          ],
+          "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f",
+          "target": "https://dev.static.t-pen.org/690d4446e5ff898f955c09e1/canvas-1.json"
+        }
+      ]
     }
   ],
   "creator": "https://store.rerum.io/v1/id/685c5cc9dc7a212bac75487f"
