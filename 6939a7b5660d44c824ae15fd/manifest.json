@@ -1,0 +1,212 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://dev.static.t-pen.org/6939a7b5660d44c824ae15fd/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "TPEN3 Transcription/Translation Example"
+    ]
+  },
+  "metadata": [],
+  "items": [
+    {
+      "id": "https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Gottesdienstliche Ceremonien Title Page 1"
+        ]
+      },
+      "width": 5428,
+      "height": 7230,
+      "items": [
+        {
+          "id": "https://tpen-project-examples.habesoftware.app/transcription-project/contentPage.json",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tpen-project-examples.habesoftware.app/transcription-project/content.json",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.io/api/image/3.0/example/reference/15f769d62ca9a3a2deca390efed75d73-3_titlepage1/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.io/api/image/3.0/example/reference/15f769d62ca9a3a2deca390efed75d73-3_titlepage1",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "width": 5428,
+                "height": 7230
+              },
+              "target": "https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json"
+            }
+          ]
+        }
+      ],
+      "creator": "https://devstore.rerum.io/v1/id/68d6dd6a718ee294f194be04",
+      "annotations": [
+        {
+          "id": "https://devstore.rerum.io/v1/id/6939a7b5660d44c824ae15ff",
+          "type": "AnnotationPage",
+          "label": {
+            "none": [
+              "Updated Label - Edge Case Test"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://devstore.rerum.io/v1/id/6939da9fc4df855c7c37ac83",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "Line 1",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:1463,1402,2435,453"
+                }
+              },
+              "creator": "https://devstore.rerum.io/v1/id/68d6dd6a718ee294f194be04"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/6939daa6fc70d87c9cb0a412",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "Line 2",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:1463,1856,2435,327"
+                }
+              },
+              "creator": "https://devstore.rerum.io/v1/id/68d6dd6a718ee294f194be04"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/6939daadc4df855c7c37ac84",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "Line 3",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:1463,2183,2435,294"
+                }
+              },
+              "creator": "https://devstore.rerum.io/v1/id/68d6dd6a718ee294f194be04"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/6939dabafc70d87c9cb0a413",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": {
+                "type": "TextualBody",
+                "value": "Line 4",
+                "format": "text/plain"
+              },
+              "target": {
+                "source": "https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:1463,2477,2435,227"
+                }
+              },
+              "creator": "https://devstore.rerum.io/v1/id/68d6dd6a718ee294f194be04"
+            },
+            {
+              "id": "https://devstore.rerum.io/v1/id/6939da92dcf26a4ec6da91d9",
+              "type": "Annotation",
+              "motivation": "transcribing",
+              "body": [],
+              "target": {
+                "source": "https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json",
+                "type": "SpecificResource",
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": "xywh=pixel:1463,2704,2435,932"
+                }
+              },
+              "creator": "https://devstore.rerum.io/v1/id/68d6dd6a718ee294f194be04"
+            }
+          ],
+          "partOf": [
+            {
+              "id": "https://devstore.rerum.io/v1/id/6939a7b5660d44c824ae15fe",
+              "type": "AnnotationCollection"
+            }
+          ],
+          "next": "http://localhost:3012/project/6939a7b5660d44c824ae15fd/page/6939a7b5660d44c824ae1600",
+          "creator": "https://devstore.rerum.io/v1/id/68d6dd6a718ee294f194be04",
+          "target": "https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json"
+        }
+      ]
+    },
+    {
+      "id": "https://tpen-project-examples.habesoftware.app/transcription-project/canvas-2.json",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Gottesdienstliche Ceremonien Title Page 2"
+        ]
+      },
+      "width": 5428,
+      "height": 7230,
+      "items": [
+        {
+          "id": "https://tpen-project-examples.habesoftware.app/transcription-project/contentPage-2.json",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tpen-project-examples.habesoftware.app/transcription-project/content-2.json",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.io/api/image/3.0/example/reference/15f769d62ca9a3a2deca390efed75d73-5_titlepage2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.io/api/image/3.0/example/reference/15f769d62ca9a3a2deca390efed75d73-5_titlepage2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ],
+                "width": 5428,
+                "height": 7230
+              },
+              "target": "https://tpen-project-examples.habesoftware.app/transcription-project/canvas-2.json"
+            }
+          ]
+        }
+      ],
+      "creator": "https://devstore.rerum.io/v1/id/68d6dd6a718ee294f194be04"
+    }
+  ],
+  "creator": "https://devstore.rerum.io/v1/id/68d6dd6a718ee294f194be04"
+}
