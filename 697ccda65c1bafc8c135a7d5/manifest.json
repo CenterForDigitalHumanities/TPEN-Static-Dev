@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://dev.static.t-pen.org/697ccda65c1bafc8c135a7d5/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Baby Duck"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://dev.static.t-pen.org/697ccda65c1bafc8c135a7d5/canvas-1.json",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "Baby Duck Page 1"
+        ]
+      },
+      "width": 1202,
+      "height": 1346,
+      "items": [
+        {
+          "id": "https://dev.static.t-pen.org/697ccda65c1bafc8c135a7d5/contentPage.json",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dev.static.t-pen.org/697ccda65c1bafc8c135a7d5/content.json",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://blog.mcmurrayhatchery.com/wp-content/uploads/2022/10/McMurray-Hatchery-Raising-Backyard-Ducklings-Welsh-Harlequin-.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1202,
+                "height": 1346
+              },
+              "target": "https://dev.static.t-pen.org/697ccda65c1bafc8c135a7d5/canvas-1.json"
+            }
+          ]
+        }
+      ],
+      "creator": "https://devstore.rerum.io/v1/id/68d6dd6a718ee294f194be04"
+    }
+  ],
+  "creator": "https://devstore.rerum.io/v1/id/68d6dd6a718ee294f194be04"
+}
