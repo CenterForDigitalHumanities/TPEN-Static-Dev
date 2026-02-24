@@ -4,10 +4,23 @@
   "type": "Manifest",
   "label": {
     "none": [
-      "TPEN3 Transcription/Translation Example"
+      "Transcription With Text"
     ]
   },
-  "metadata": [],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "BRY"
+        ]
+      },
+      "value": {
+        "none": [
+          "neat"
+        ]
+      }
+    }
+  ],
   "items": [
     {
       "id": "https://tpen-project-examples.habesoftware.app/transcription-project/canvas-1.json",
@@ -59,12 +72,12 @@
           },
           "items": [
             {
-              "id": "https://devstore.rerum.io/v1/id/698cac18357e2b930ff1dd66",
+              "id": "https://devstore.rerum.io/v1/id/699dd84755e7ac3aea107d28",
               "type": "Annotation",
               "motivation": "transcribing",
               "body": {
                 "type": "TextualBody",
-                "value": "Page 1 Line 1",
+                "value": "Page 1 Line 1 updated",
                 "format": "text/plain"
               },
               "target": {
@@ -79,12 +92,12 @@
               "creator": "https://devstore.rerum.io/v1/id/68d6dd6a718ee294f194be04"
             },
             {
-              "id": "https://devstore.rerum.io/v1/id/698cac1d55e7ac3aea107d25",
+              "id": "https://devstore.rerum.io/v1/id/699dd84b6dc58321d57edf3b",
               "type": "Annotation",
               "motivation": "transcribing",
               "body": {
                 "type": "TextualBody",
-                "value": "Page 1 Line 2",
+                "value": "Page 1 Line 2 updated",
                 "format": "text/plain"
               },
               "target": {
