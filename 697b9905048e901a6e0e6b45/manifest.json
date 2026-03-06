@@ -72,12 +72,12 @@
           },
           "items": [
             {
-              "id": "https://devstore.rerum.io/v1/id/699dd84755e7ac3aea107d28",
+              "id": "https://devstore.rerum.io/v1/id/69ab2cfe71c93982e8c5a6c1",
               "type": "Annotation",
               "motivation": "transcribing",
               "body": {
                 "type": "TextualBody",
-                "value": "Page 1 Line 1 updated",
+                "value": "Page 1 Line 1",
                 "format": "text/plain"
               },
               "target": {
@@ -86,18 +86,18 @@
                 "selector": {
                   "type": "FragmentSelector",
                   "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "xywh=pixel:1568,1552,2178,374"
+                  "value": "xywh=pixel:1603,1543,2169,362"
                 }
               },
               "creator": "https://devstore.rerum.io/v1/id/68d6dd6a718ee294f194be04"
             },
             {
-              "id": "https://devstore.rerum.io/v1/id/699dd84b6dc58321d57edf3b",
+              "id": "https://devstore.rerum.io/v1/id/69ab2d0527ea6830a241ea0b",
               "type": "Annotation",
               "motivation": "transcribing",
               "body": {
                 "type": "TextualBody",
-                "value": "Page 1 Line 2 updated",
+                "value": "Page 1 Line 2",
                 "format": "text/plain"
               },
               "target": {
@@ -106,7 +106,7 @@
                 "selector": {
                   "type": "FragmentSelector",
                   "conformsTo": "http://www.w3.org/TR/media-frags/",
-                  "value": "xywh=pixel:1568,1926,2178,393"
+                  "value": "xywh=pixel:1603,1904,2169,432"
                 }
               },
               "creator": "https://devstore.rerum.io/v1/id/68d6dd6a718ee294f194be04"
