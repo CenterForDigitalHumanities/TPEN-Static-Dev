@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://dev.static.t-pen.org/69e2aeb68084ca810ace8fdb/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "AI Detection Test"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://dev.static.t-pen.org/69e2aeb68084ca810ace8fdb/canvas-1.json",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "AI Detection Test Page 1"
+        ]
+      },
+      "width": 3292,
+      "height": 2493,
+      "items": [
+        {
+          "id": "https://dev.static.t-pen.org/69e2aeb68084ca810ace8fdb/contentPage.json",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dev.static.t-pen.org/69e2aeb68084ca810ace8fdb/content.json",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://sachachua.com/blog/wp-content/uploads/2013/11/2013-11-14-Integrating-paper-and-digital-notes.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 3292,
+                "height": 2493
+              },
+              "target": "https://dev.static.t-pen.org/69e2aeb68084ca810ace8fdb/canvas-1.json"
+            }
+          ]
+        }
+      ],
+      "creator": "https://store.rerum.io/v1/id/69260f4e6b508afe73e8e2d7"
+    }
+  ],
+  "creator": "https://store.rerum.io/v1/id/69260f4e6b508afe73e8e2d7"
+}
