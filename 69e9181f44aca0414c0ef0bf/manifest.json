@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://dev.static.t-pen.org/69e9181f44aca0414c0ef0bf/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "claude.ai Chat Sonnet"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://dev.static.t-pen.org/69e9181f44aca0414c0ef0bf/canvas-1.json",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "claude.ai Chat Sonnet Page 1"
+        ]
+      },
+      "width": 3292,
+      "height": 2493,
+      "items": [
+        {
+          "id": "https://dev.static.t-pen.org/69e9181f44aca0414c0ef0bf/contentPage.json",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://dev.static.t-pen.org/69e9181f44aca0414c0ef0bf/content.json",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://sachachua.com/blog/wp-content/uploads/2013/11/2013-11-14-Integrating-paper-and-digital-notes.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 3292,
+                "height": 2493
+              },
+              "target": "https://dev.static.t-pen.org/69e9181f44aca0414c0ef0bf/canvas-1.json"
+            }
+          ]
+        }
+      ],
+      "creator": "https://store.rerum.io/v1/id/69e9159cd4e0e5d0ade9bfc5"
+    }
+  ],
+  "creator": "https://store.rerum.io/v1/id/69e9159cd4e0e5d0ade9bfc5"
+}
