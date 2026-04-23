@@ -1,0 +1,34 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://dev.static.t-pen.org/69ea67a73cb894d4f2b3ba2d/canvas-1.json",
+  "type": "Canvas",
+  "label": {
+    "none": [
+      "Testing 1 Page 1"
+    ]
+  },
+  "width": 3849,
+  "height": 1552,
+  "items": [
+    {
+      "id": "https://dev.static.t-pen.org/69ea67a73cb894d4f2b3ba2d/contentPage.json",
+      "type": "AnnotationPage",
+      "items": [
+        {
+          "id": "https://dev.static.t-pen.org/69ea67a73cb894d4f2b3ba2d/content.json",
+          "type": "Annotation",
+          "motivation": "painting",
+          "body": {
+            "id": "https://tpen-project-examples.habesoftware.app/images/hand4.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "width": 3849,
+            "height": 1552
+          },
+          "target": "https://dev.static.t-pen.org/69ea67a73cb894d4f2b3ba2d/canvas-1.json"
+        }
+      ]
+    }
+  ],
+  "creator": "https://store.rerum.io/v1/id/69260f4e6b508afe73e8e2d7"
+}
